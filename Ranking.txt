@@ -1,0 +1,6 @@
+우왕(HARD),5
+ez(EASY),4
+테스트(EASY),6
+a1(EASY),4
+CCC(HARD),4
+시연영상(HARD),1
